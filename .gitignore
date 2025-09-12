@@ -1,0 +1,16 @@
+
+.DS_Store
+
+.vscode/
+
+*.dSYM/
+Debug
+
+main
+convert
+a.out
+
+
+*.o
+
+output.txt
