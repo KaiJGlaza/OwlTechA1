@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kaig/Coding/OwlTechA1/src",
+      "program": "/Users/kaig/Coding/OwlTechA1/src/build/Debug/outDebug"
+    }
+  ]
+}
