@@ -65,7 +65,7 @@ int main(void) {
                 total_count++;
                 fprintf(outfile, "Test %d: %s(%u)\n", test_num, func, n);
                 
-                // Redirect stdout to file temporarily
+                // Redirect stdout to file temporarily for getting into output
                 FILE *old_stdout = stdout;
                 stdout = outfile;
                 print_tables(n);  // Now prints to file

@@ -22,6 +22,8 @@ Starter files for Owl Tech Assignment 1: Number base conversion utility.##
 
 
 ## Build Instructions
+idk what this really means but I had to run something different from the document
 ```bash
-gcc -o convert src/main.c src/convert.c
+cd src
+gcc main.c convert.c -o main
 ./main
